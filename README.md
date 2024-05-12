@@ -1,3 +1,5 @@
+# this package is now obsolete as lcldev no longer exists
+ 
  **lcldev-api**
 communication with lcldev api
 ##
